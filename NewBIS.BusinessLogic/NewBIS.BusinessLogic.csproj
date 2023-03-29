@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="DataAccessUtility.AspNetCore" Version="2.2.2" />
+    <PackageReference Include="ITUtility.AspNetCore" Version="2.2.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\NewBIS.DataAccess\NewBIS.DataAccess.csproj" />
+    <ProjectReference Include="..\NewBIS.DataContract\NewBIS.DataContract.csproj" />
+  </ItemGroup>
+
+</Project>

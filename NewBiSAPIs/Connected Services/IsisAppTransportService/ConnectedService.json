@@ -1,0 +1,41 @@
+{
+  "ExtendedData": {
+    "inputs": [
+      "http://owssvr.bla.co.th/ISISAppTransportService.uat/ISISAppTransportServiceReference.svc"
+    ],
+    "collectionTypes": [
+      "System.Array",
+      "System.Collections.Generic.Dictionary`2"
+    ],
+    "namespaceMappings": [
+      "*, IsisAppTransportService"
+    ],
+    "references": [
+      "D:\\Mac_WorkSpace\\NewBISAPIs\\NewBiSAPIs\\NewBiSAPIs\\bin\\Debug\\net6.0\\NewBIS.BusinessLogic.dll",
+      "D:\\Mac_WorkSpace\\NewBISAPIs\\NewBiSAPIs\\NewBiSAPIs\\bin\\Debug\\net6.0\\NewBIS.DataAccess.dll",
+      "D:\\Mac_WorkSpace\\NewBISAPIs\\NewBiSAPIs\\NewBiSAPIs\\bin\\Debug\\net6.0\\NewBIS.DataContract.dll",
+      "DataAccessUtility, {DataAccessUtility.AspNetCore, 2.2.2}",
+      "ITUtility, {ITUtility.AspNetCore, 2.2.2}",
+      "Microsoft.OpenApi, {Microsoft.OpenApi, 1.2.3}",
+      "Microsoft.Win32.SystemEvents, {Microsoft.Win32.SystemEvents, 6.0.0}",
+      "Newtonsoft.Json, {Newtonsoft.Json, 13.0.2}",
+      "Oracle.ManagedDataAccess, {Oracle.ManagedDataAccess.Core, 3.21.90}",
+      "Swashbuckle.AspNetCore.Swagger, {Swashbuckle.AspNetCore.Swagger, 6.2.3}",
+      "Swashbuckle.AspNetCore.SwaggerGen, {Swashbuckle.AspNetCore.SwaggerGen, 6.2.3}",
+      "Swashbuckle.AspNetCore.SwaggerUI, {Swashbuckle.AspNetCore.SwaggerUI, 6.2.3}",
+      "System.Configuration.ConfigurationManager, {System.Configuration.ConfigurationManager, 6.0.0}",
+      "System.Diagnostics.PerformanceCounter, {System.Diagnostics.PerformanceCounter, 6.0.0}",
+      "System.DirectoryServices, {System.DirectoryServices, 5.0.0}",
+      "System.DirectoryServices.Protocols, {System.DirectoryServices.Protocols, 5.0.1}",
+      "System.Drawing.Common, {System.Drawing.Common, 6.0.0}",
+      "System.IO.FileSystem.AccessControl, {System.IO.FileSystem.AccessControl, 5.0.0}",
+      "System.Security.AccessControl, {System.Security.AccessControl, 6.0.0}",
+      "System.Security.Cryptography.ProtectedData, {System.Security.Cryptography.ProtectedData, 6.0.0}",
+      "System.Security.Permissions, {System.Security.Permissions, 6.0.0}",
+      "System.Security.Principal.Windows, {System.Security.Principal.Windows, 5.0.0}",
+      "System.Windows.Extensions, {System.Windows.Extensions, 6.0.0}"
+    ],
+    "targetFramework": "net6.0",
+    "typeReuseMode": "All"
+  }
+}
